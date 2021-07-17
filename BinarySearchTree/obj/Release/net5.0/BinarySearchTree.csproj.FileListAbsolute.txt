@@ -1,0 +1,12 @@
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/bin/Release/net5.0/BinarySearchTree.deps.json
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/bin/Release/net5.0/BinarySearchTree.dll
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/bin/Release/net5.0/ref/BinarySearchTree.dll
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/bin/Release/net5.0/BinarySearchTree.pdb
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/obj/Release/net5.0/BinarySearchTree.csproj.AssemblyReference.cache
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/obj/Release/net5.0/BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/obj/Release/net5.0/BinarySearchTree.AssemblyInfoInputs.cache
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/obj/Release/net5.0/BinarySearchTree.AssemblyInfo.cs
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/obj/Release/net5.0/BinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/obj/Release/net5.0/BinarySearchTree.dll
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/obj/Release/net5.0/ref/BinarySearchTree.dll
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/BinarySearchTree/BinarySearchTree/obj/Release/net5.0/BinarySearchTree.pdb
